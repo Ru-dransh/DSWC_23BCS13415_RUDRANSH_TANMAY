@@ -1,1 +1,3 @@
-It is for day 2 class assignment of Ecosmart problem statements.
+MineFleet - Day 1 Assigment
+EcoSmart - Day 2 Assignment
+
